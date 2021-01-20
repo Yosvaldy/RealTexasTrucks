@@ -10,6 +10,7 @@
   --mainTransition: all 0.3s linear;
   --mainBadge: #7cae17;
   --mainBgNavBar: #343a40;
+  --mobileBtn: #9c1f17;
   --mainItemInCart: #eb5f5f;
 }
 
@@ -408,11 +409,20 @@ footer {
     background: none;
     padding: 0;
     left: 0;
-    top: -220px;
+    top: 220px;
   }
 
   .banner-title {
     margin-bottom: .5rem;
+    color: rgb(231, 226, 221);
+    border: 1px solid #fff;
+    margin-left: 5px;
+    margin-right: 5px;
+    background-color: #00000040;
+  }
+
+  .banner-btn {
+    background: var(--mobileBtn);
   }
 
   .cart {
