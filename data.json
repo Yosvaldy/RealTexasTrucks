@@ -1,0 +1,132 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "queen panel bed",
+        "price": 10.99,
+        "image": { "fields": { "file": { "url": "assets/images/product-1.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "king panel bed",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "assets/images/product-2.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "single panel bed",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "assets/images/product-3.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "twin panel bed",
+        "price": 22.99,
+        "image": { "fields": { "file": { "url": "assets/images/product-4.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "fridge",
+        "price": 88.99,
+        "image": { "fields": { "file": { "url": "assets/images/product-5.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "dresser",
+        "price": 32.99,
+        "image": { "fields": { "file": { "url": "assets/images/product-6.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "couch",
+        "price": 45.99,
+        "image": { "fields": { "file": { "url": "assets/images/product-7.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "table",
+        "price": 33.99,
+        "image": { "fields": { "file": { "url": "assets/images/product-8.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "Sectional Living Room",
+        "price": 1149.99,
+        "image": { "fields": { "file": { "url": "assets/images/product-9.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "Sofia Vergara Sorrento White 5 PC",
+        "price": 2299.99,
+        "image": { "fields": { "file": { "url": "assets/images/product-10.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "11" },
+      "fields": {
+        "title": "Fogia launches furniture collection",
+        "price": 1133.99,
+        "image": { "fields": { "file": { "url": "assets/images/product-11.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "12" },
+      "fields": {
+        "title": "unique furniture",
+        "price": 1633.99,
+        "image": { "fields": { "file": { "url": "assets/images/product-12.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "13" },
+      "fields": {
+        "title": "unique furniture",
+        "price": 2833.99,
+        "image": { "fields": { "file": { "url": "assets/images/product-13.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "14" },
+      "fields": {
+        "title": "Fogia furniture collection",
+        "price": 983.99,
+        "image": { "fields": { "file": { "url": "assets/images/product-14.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "15" },
+      "fields": {
+        "title": "Skyline Drive Gray 3 PC ",
+        "price": 1563.99,
+        "image": { "fields": { "file": { "url": "assets/images/product-15.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "16" },
+      "fields": {
+        "title": "Drury's Furniture 3 PC ",
+        "price": 3563.99,
+        "image": { "fields": { "file": { "url": "assets/images/product-16.jpg" } } }
+      }
+    }
+  ]
+}
